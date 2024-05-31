@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Chat App Project**
  
- 🌱 I’m currently learning **Flutter & Dart**
+ 🌱 I’m currently learning Flutter & Dart
 
 💬 Ask me about **JavaScript, React, Firebase... or anything**
 

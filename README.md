@@ -8,11 +8,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Chat App Project**
+ 🔭 I’m currently working on **Dynamic Pricing Project**
  
- 🌱 I’m currently learning Flutter & Dart
+ 🌱 I’m currently learning NLP
 
-💬 Ask me about **JavaScript, React, Firebase... or anything**
+💬 Ask me about **Python, Flask, Machine Learning or anything**
 
 
  </div>
@@ -31,7 +31,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I’m currently learning **NLP**
 
 - 📫 How to reach me **swayam23974@gmail.com**
 
